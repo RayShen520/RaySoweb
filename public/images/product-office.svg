@@ -1,0 +1,19 @@
+<svg width="360" height="240" viewBox="0 0 360 240" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="officeGrad" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#34D399"/>
+      <stop offset="100%" stop-color="#059669"/>
+    </linearGradient>
+  </defs>
+  <rect width="360" height="240" rx="24" fill="#022C22"/>
+  <rect x="60" y="60" width="240" height="130" rx="16" fill="#041C1A"/>
+  <rect x="80" y="80" width="200" height="90" rx="14" fill="url(#officeGrad)" opacity="0.85"/>
+  <rect x="110" y="100" width="140" height="10" rx="5" fill="#D1FAE5"/>
+  <rect x="110" y="120" width="100" height="10" rx="5" fill="#A7F3D0"/>
+  <rect x="110" y="140" width="160" height="10" rx="5" fill="#6EE7B7"/>
+  <circle cx="220" cy="110" r="18" fill="#ECFCCB"/>
+  <path d="M220 100V120" stroke="#047857" stroke-width="4" stroke-linecap="round"/>
+  <path d="M210 110H230" stroke="#047857" stroke-width="4" stroke-linecap="round"/>
+  <rect x="140" y="190" width="80" height="10" rx="5" fill="#065F46"/>
+</svg>
+

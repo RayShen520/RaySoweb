@@ -1,0 +1,20 @@
+<svg width="360" height="240" viewBox="0 0 360 240" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="glassesGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#7C3AED"/>
+      <stop offset="100%" stop-color="#4F46E5"/>
+    </linearGradient>
+  </defs>
+  <rect width="360" height="240" rx="24" fill="#0F172A"/>
+  <path d="M40 140H320" stroke="#312E81" stroke-width="4" stroke-linecap="round"/>
+  <rect x="60" y="80" width="90" height="70" rx="20" fill="url(#glassesGrad)"/>
+  <rect x="210" y="80" width="90" height="70" rx="20" fill="url(#glassesGrad)"/>
+  <rect x="150" y="105" width="60" height="20" rx="10" fill="#312E81"/>
+  <circle cx="105" cy="115" r="18" fill="#1F2937"/>
+  <circle cx="255" cy="115" r="18" fill="#1F2937"/>
+  <circle cx="105" cy="115" r="8" fill="#FBBF24"/>
+  <circle cx="255" cy="115" r="8" fill="#F87171"/>
+  <path d="M40 110C60 90 80 90 100 110" stroke="#7C3AED" stroke-width="6" stroke-linecap="round"/>
+  <path d="M260 110C280 90 300 90 320 110" stroke="#7C3AED" stroke-width="6" stroke-linecap="round"/>
+</svg>
+
